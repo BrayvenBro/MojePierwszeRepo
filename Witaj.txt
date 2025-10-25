@@ -1,2 +1,3 @@
-Plik Github
+Cześć! To mój pierwszy projekt.
+
  https://github.com/BrayvenBro/MojePierwszeRepo/tree/main
